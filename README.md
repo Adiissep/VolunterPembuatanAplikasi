@@ -9,4 +9,3 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Adi Sepriyadi, [https://www.linkedin.com/in/adisepriyadi/](https://www.linkedin.com/in/adisepriyadi/).
-* Diki, [https://www.linkedin.com/in/adisepriyadi/].(https://www.linkedin.com/in/adisepriyadi/)
